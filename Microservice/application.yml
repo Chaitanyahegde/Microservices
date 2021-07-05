@@ -1,1 +1,4 @@
-my.application.new.prop=testing
+my:
+  application:
+    new:
+      prop:testing
